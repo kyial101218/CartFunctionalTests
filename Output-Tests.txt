@@ -1,0 +1,998 @@
+﻿Log level is set to Informational (Default).
+Source code repository not available. Some features may not work as expected.
+Connected to test environment '< Local Windows Environment >'
+Test data store opened in 0.071 sec.
+Downloaded solution cache containers in 0.274 sec.
+Loaded 0 test records from 0 solution cache containers in 0.698 sec.
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 9 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 16 sec ==========
+Source code repository not available. Some features may not work as expected.
+Test data store opened in 0.001 sec.
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.9 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 2.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTest\CartFunctionalTest\bin\Debug\net6.0\CartFunctionalTest.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 4.1 sec ==========
+Test data store opened in 0.033 sec.
+Source code repository not available. Some features may not work as expected.
+Test data store opened in 0.001 sec.
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 2.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 14.4 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.6 sec ==========
+Building Test Projects
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Building Test Projects
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Building Test Projects
+Aborting test run due to build failures. Please see the build output for more details.
+Aborting test run due to build failures. Please see the build output for more details.
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 9.5 sec ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 10.9 sec ==========
+Building Test Projects
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 10.1 sec ==========
+Building Test Projects
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+Executing test method: CartFunctionalTests1.Tests.Tests.SearchTest
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 22 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 18.9 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 15.9 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 23.7 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+"омега 3"
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 26.1 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 2.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+"омега 3"
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 24.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 58.7 sec ==========
+Building Test Projects
+Executing test method: CartFunctionalTests1.Tests.Tests.SelectTest
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 38.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 14.6 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 926.8 ms ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 39.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 17.1 sec ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 13.4 sec ==========
+Building Test Projects
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 15.9 sec ==========
+Building Test Projects
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 19.9 sec ==========
+Building Test Projects
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 16.6 sec ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 11.3 sec ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 18.1 sec ==========
+Building Test Projects
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 15 sec ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 13.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 35.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 10 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 9.3 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 14.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.9 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 12.8 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 16.1 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 1.8 sec ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 10.2 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 9.8 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 5.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 33.9 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 5.1 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 14.7 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12.1 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 15.8 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12.8 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 10.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 10.6 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 4.1 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 9.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 11.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+---------!!!!!!!!!!!!!!!------------
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 31.2 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+---------!!!!!!!!!!!!!!!------------
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (0 Passed, 2 Failed, 0 Skipped) run in 53 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+Under Armour Men's Charged Assert 9 Running Shoe
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (2 Passed, 0 Failed, 0 Skipped) run in 34.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.9 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 39.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 5.1 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 50.8 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (2 Passed, 0 Failed, 0 Skipped) run in 27 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (2 Passed, 0 Failed, 0 Skipped) run in 43.7 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 1.7 min ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 33.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 1.3 min ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 1.1 min ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 4.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (0 Passed, 2 Failed, 0 Skipped) run in 27.1 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 27.5 sec ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 35.7 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 5.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (2 Passed, 0 Failed, 0 Skipped) run in 42.8 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 4.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (2 Passed, 0 Failed, 0 Skipped) run in 45.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 4.1 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 2 of 2 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 2 Tests (1 Passed, 1 Failed, 0 Skipped) run in 1.1 min ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 24.3 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 4.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 4.7 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 10 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 39.9 sec ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 43.4 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 3.4 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 19.6 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 2 Tests found in 4.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 21.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 3 Tests found in 5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 3 of 3 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 3 Tests (1 Passed, 2 Failed, 0 Skipped) run in 1.4 min ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 3 of 3 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 3 Tests (2 Passed, 1 Failed, 0 Skipped) run in 1.4 min ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 43.6 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.9 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 23.1 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.2 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 44.5 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 38.2 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 1.2 min ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 58.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 41.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.4 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 23 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 5.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 29.4 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 4.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 26.4 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.9 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 17.3 sec ==========
+Continuing test run with last successful build.
+You can change this default behavior by going to 'Tools -> Options -> Project and Solution -> Build and Run -> On Run, When build or deployment errors occur'
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 19.7 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 26.8 sec ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 57.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+1
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 32.3 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 32.6 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+1!!!!!!!!!!!!!
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 34.4 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 3.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+1!!!!!!!!!!!!!
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 27.7 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 3 Tests found in 3.8 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 26.9 sec ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+1!!!!!!!!!!!!!
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 48 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 4 Tests found in 3.3 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 19.7 sec ==========
+Building Test Projects
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 29.4 sec ==========
+Building Test Projects
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 4.4.0.0: Test discovery starting
+NUnit Adapter 4.4.0.0: Test discovery complete
+========== Test discovery finished: 4 Tests found in 3.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 4.4.0.0: Test execution started
+Running selected tests in C:\Users\Кыял\source\repos\CartFunctionalTests1\CartFunctionalTests1\bin\Debug\net6.0\CartFunctionalTests1.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+1&&&&&&&&&&&&&
+
+NUnit Adapter 4.4.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 38.6 sec ==========
